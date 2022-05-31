@@ -1,4 +1,4 @@
-# Space Shooter
+# Genius Game
 
 ## English Description
 
